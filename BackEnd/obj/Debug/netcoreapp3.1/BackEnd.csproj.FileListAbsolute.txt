@@ -1,0 +1,9 @@
+C:\Users\anadi\source\repos\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.deps.json
+C:\Users\anadi\source\repos\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\anadi\source\repos\BackEnd\bin\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
+C:\Users\anadi\source\repos\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csprojAssemblyReference.cache
